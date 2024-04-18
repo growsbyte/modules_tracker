@@ -28,5 +28,6 @@
         'views/statistics.xml',
         'views/menues.xml',
     ],
+    'images': ['static/description/banner.jpg'],
     'css': ['static/src/css/custom.css'],
 }
