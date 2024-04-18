@@ -12,7 +12,7 @@
     'website': "https://www.growsbyte.com/",
     'license': 'OPL-1',
     'category': 'Tools',
-    'version': '1.1',
+    'version': '15.0',
     'depends': ['base', 'hr'],
     'installable': True,
     'application': True,
