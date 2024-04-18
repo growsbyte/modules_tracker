@@ -10,7 +10,7 @@
     'author': "GrowsByte",
     'company': "GrowsByte",
     'website': "https://www.growsbyte.com/",
-    'license': 'OPL-1',
+    'license': 'LGPL-3',
     'category': 'Tools',
     'version': '15.0',
     'depends': ['base', 'hr'],
