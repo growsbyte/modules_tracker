@@ -12,7 +12,7 @@
     'website': "https://www.growsbyte.com/",
     'license': 'LGPL-3',
     'category': 'Tools',
-    'version': '16.0',
+    'version': '17.0',
     'depends': ['base', 'hr'],
     'installable': True,
     'application': True,
